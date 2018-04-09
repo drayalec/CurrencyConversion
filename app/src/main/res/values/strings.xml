@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Currency Conversion</string>
+    <string name="hint">Amount to convert</string>
+    <string name="usd_to_cad">Convert US Dollar to CA Dollar</string>
+    <string name="cad_to_usd">Convert CA Dollar to US Dollar</string>
+    <string name="btn_convert">Convert Currency</string>
+</resources>
